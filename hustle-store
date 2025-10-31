@@ -1,0 +1,4 @@
+cd /home/ubuntu/hustle-store
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/hustle-store.git
+git push -u origin m
